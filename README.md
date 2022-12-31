@@ -13,10 +13,7 @@ I would like to thank the TensorFlow and Keras teams for providing the tools to 
 
 ## Demo
 
-- Breadth-First Search (FIFO): The route is [1, 6, 5], and total cost is 23.
-- Depth-First Search (LIFO): The route is [1, 6, 5], and total cost is 23.
-- Uniform-Cost Search: The route is [1, 3, 6, 5], and total cost is 20.
-
+![image](https://user-images.githubusercontent.com/34344439/210149623-90c0e51d-958d-4b96-a82f-353c7f63255b.png)
 
 ## Tech Stack
 - Python 3.7
